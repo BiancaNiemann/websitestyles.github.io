@@ -1,0 +1,227 @@
+h1 {
+    font-weight: 800;
+    font-size: 36px;
+    font-family: 'Shadows Into Light', cursive;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 29px;
+    font-family:  'Marcellus', serif;
+}
+
+h3 {
+    font-weight: 650;
+    font-size: 26px;
+    font-family: 'Amatic SC', cursive;
+}
+
+h4 {
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Baskervville', serif;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+li {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Marcellus', serif;
+}
+
+ul {
+    list-style-type: square;
+}
+
+header {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+
+/* Colors */
+
+.colorchoices {
+    border: 8px solid darkgray;
+    border-radius: 10px;
+    padding: 30px;
+    width: 1140px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.frame {
+    border: 5px solid darkgray;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    color: black;
+}
+
+.pb {
+    background-color: #9ADCFF;
+    position: relative;
+}
+
+.py {
+    background-color: #FFF89A;
+    position: relative;
+    top: -160px;
+    left: 200px;
+}
+
+.pp {
+    background-color: #FFB2A6;
+    position: relative;
+    top: -320px;
+    left: 395px;
+}
+
+.pg {
+    background-color: #c1f4c5;
+    position: relative;
+    top: -480px;
+    left: 590px;
+}
+
+.pu {
+    background-color: #D18CE0;
+    position: relative;
+    top: -640px;
+    left: 785px;
+}
+
+.gb {
+    background-color: #7897AB;
+    position: relative;
+    top: -800px;
+    left: 980px
+}
+
+/* Fonts */
+
+.fontchoices {
+    border: 8px solid darkgray;
+    border-radius: 10px;
+    padding: 30px;
+    width: 1140px;
+    height: 1300px;
+    margin: auto;
+    text-align: center;
+}
+
+.fontframe1 {
+    border: 10px solid #9ADCFF;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+}
+
+.fontframe2 {
+    border: 10px solid #9ADCFF;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    top: -360px;
+    left: 580px;
+}
+
+.fontframe3 {
+    border: 10px solid #9ADCFF;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    top: -340px;
+}
+
+.fontframe4 {
+    border: 10px solid #9ADCFF;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    top: -700px;
+    left: 580px;
+}
+
+.fontframe5 {
+    border: 10px solid #9ADCFF;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    top: -680px;
+}
+
+.fontframe6 {
+    border: 10px solid #9ADCFF;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    top: -1040px;
+    left: 580px;
+}
+
+.sil {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.ama {
+    font-family: 'Amatic SC', cursive;
+}
+
+.mar {
+    font-family: 'Marcellus', serif;
+}
+
+.bas {
+    font-family: 'Baskervville', serif;
+}
+
+.pop {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ssp {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/*Element Styles*/
+
+.stylechoices {
+    border: 8px solid darkgray;
+    border-radius: 10px;
+    padding: 30px;
+    width: 1140px;
+    height: 620px;
+    margin: auto;
+}
